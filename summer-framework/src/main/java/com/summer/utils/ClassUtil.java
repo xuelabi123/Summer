@@ -5,4 +5,8 @@ package com.summer.utils;
  * @date 2020/7/21 10:42 下午
  */
 public class ClassUtil {
+
+    public static String getName() {
+        return null;
+    }
 }
